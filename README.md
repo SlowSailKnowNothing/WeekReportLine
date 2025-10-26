@@ -14,6 +14,7 @@
 - **其他指标**：自定义键值对记录（如运动次数等）
 
 ### 🌐 公开展示页面
+![image](https://github.com/SlowSailKnowNothing/WeekReportLine/blob/main/img/image.png)
 - **个人信息卡片**：展示头像、简介、技能标签、联系方式
 - **精选项目展示**：展示你的项目作品
 - **智能筛选时间轴**：
@@ -23,6 +24,8 @@
   - 实时筛选，流畅交互
 
 ### 🔒 管理后台
+![image](https://github.com/SlowSailKnowNothing/WeekReportLine/blob/main/img/image%20copy.png)
+![image](https://github.com/SlowSailKnowNothing/WeekReportLine/blob/main/img/image%20copy%202.png)
 - **周报管理**：创建、编辑、删除周报
 - **个人信息配置**：管理展示页面的个人信息
 - **项目管理**：管理项目展示内容
